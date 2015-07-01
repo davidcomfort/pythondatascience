@@ -1,7 +1,4 @@
-# pythondatascience
 Resources for using Python for Data Science
-
-List Data Science Resources for Python
 ======================
 This list contains resources for data science using Python
 
@@ -11,7 +8,7 @@ This list contains resources for data science using Python
 - Send a Pull Request
 
 ###Index
-* [Python Programming](#python)
+* [Python Programming](#python-programming)
 * [Algorithms] (#algorithms)
 * [Computer Vision] (#computer-vision)
 * [Data Analysis using Python] (#python-data-analysis)
@@ -24,3 +21,29 @@ This list contains resources for data science using Python
 * [Online Courses] (#online-courses)
 * [Pandas] (#pandas)
 * [SciPy] (#statistics)
+
+###Python Programming
+
+###Algorithms
+
+###Computer Vision
+
+###Data Analysis using Python
+
+###Data Visualization
+
+###Finance
+
+###IPython
+
+###Machine Learning
+
+###Natural Language Processing
+
+###NumPy
+
+###Online Courses
+
+###Pandas
+
+###SciPy
